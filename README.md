@@ -1,55 +1,43 @@
-# README Template
+# README 
 
-Below is a template provided for use when building your README file for students.
+# dsnd-pipelines-project
 
-# Project Title
-
-Project description goes here.
+This project is part of the Udacity Data Science Nanodegree. 
+The task is to create a machine learning pipeline including NLP in the fictional setting of a fashion company.
 
 ## Getting Started
 
-Instructions for how to get a copy of the project running on your local machine.
+Feel free to fork my version or the [original](https://github.com/udacity/dsnd-pipelines-project).
 
 ### Dependencies
 
-```
-Examples here
-```
+See the list of dependencies in the [requirements.txt](requirements.txt) file.
 
 ### Installation
 
 Step by step explanation of how to get a dev environment running.
 
-List out the steps
+1. Clone the repo.
 
 ```
-Give an example here
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
 ```
 
-## Testing
-
-Explain the steps needed to run any automated tests
-
-### Break Down Tests
-
-Explain what each test does and why
+2. Create and activate a virtual environment
 
 ```
-Examples here
+python -m venv .venv
+.venv\Scripts\activate   # Windows
 ```
 
-## Project Instructions
+3. Install dependencies
+```
+pip install -r requirements.txt
+```
 
-This section should contain all the student deliverables for this project.
-
-## Built With
-
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
-
-Include all items used to build project.
 
 ## License
 
-[License](LICENSE.txt)
+Licence from Udacity <br>
+--- [License](LICENSE.txt)

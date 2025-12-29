@@ -44,7 +44,7 @@ See the list of dependencies in the [requirements.txt](requirements.txt) file.
 
 ### Installation
 
-Step by step explanation of how to get a dev environment running.
+Step by step explanation of how to get your own version of the project running.
 
 1. Clone the repo.
 
